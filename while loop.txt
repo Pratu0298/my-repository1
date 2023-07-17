@@ -5,3 +5,4 @@ while(i<n)
 	console.log(i);
 	i++;
 }
+//in this way you can use a while loop
